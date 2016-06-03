@@ -1,0 +1,9 @@
+name: sbt
+version: 0.1.0-rc1
+description: simple sbt
+keywords:
+  - sbt
+properties:
+  task:
+    type: string
+    required: true
